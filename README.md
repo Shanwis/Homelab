@@ -19,7 +19,7 @@ by building and maintaining a real, continuously running server.
 
 - **CPU**: Intel i3-4130 (4) @ 3.400GHz 
 - **GPU**: Intel 4th Generation Core Processor Family 
-- **RAM**: 8GB
+- **RAM**: 16GB
 - **Storage**:
     - 4TB HDD (primary)
     - 500GB HDD (secondary)
