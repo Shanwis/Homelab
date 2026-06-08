@@ -15,14 +15,14 @@ by building and maintaining a real, continuously running server.
 - Understand real-world system failures and recovery
 - Learning Linux systems and networking
 
-## Hardware description
+## Hardware Description
 
-- **CPU**: Intel i3-4130 (4) @ 3.400GHz 
-- **GPU**: Intel 4th Generation Core Processor Family 
-- **RAM**: 16GB
-- **Storage**:
-    - 4TB HDD (primary)
-    - 500GB HDD (secondary)
+- **CPU:** Intel Core i3-4130 (2C/4T) @ 3.40 GHz
+- **GPU:** NVIDIA GeForce GTX 1060 6GB
+- **RAM:** 16 GB DDR3
+- **Storage:**
+  - 4 TB HDD (Primary)
+  - 500 GB HDD (Secondary)
 
 ## Operating System
 
